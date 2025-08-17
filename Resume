@@ -1,0 +1,44 @@
+Akshit Rampershad
+813-397-9209 | akshitrampershad@gmail.com | LinkedIn | Tableau | Tampa, FL | Open to Relocate
+PROFILE
+Master in Business Analytics and Information Systems with hands on experience leveraging business intelligence, advanced analytics, and AI to develop scalable solutions, deliver strategic insights, and drive data driven decisions with clarity.
+•	Expertise: ETL/ELT, Data Analytics, Data Visualization, Business Reporting, Requirement Gathering, Agile/Scrum practices.
+•	Visualization: Tableau, Prep, Tableau Cloud, Tableau Desktop, Power BI, Domo, Looker, Excel, Matplotlib, Seaborn, Plotly.
+•	Analytics: SQL, Python, Databricks, Alteryx, Fivetran, Figma, OneModel | Cloud: AWS, Snowflake, Salesforce (CRM).
+•	Business: Jira, Confluence, Visio, Lucidchart, Smartsheet, Wrike, Hive, Aha, Compass, MS Office, Google Workspace.
+EXPERIENCE
+Data Engineer, Surge IT, Broadlands, VA								         Sept 2024 – Aug 2025 
+•	Collaborated with business partners and stakeholders to develop an AI ecosystem for urban planning and development.
+•	Extracted 1M+ GIS, zoning, parcel records using Python Bulk APIs and used SQL for data standardization and ingestions.
+•	Optimized ELT pipelines with Databricks Auto Loader and DLT with consistent schema normalization and quality controls.
+•	Integrated MLflow with AutoML to monitor model iterations, classification metrics, and benchmark bid-ranking models.
+•	Built AutoML bid classification models achieved a 78% accuracy in ranking bids by compliance, cost, quality, and timeline.
+•	Configured LakeFlow triggers to orchestrate DLT pipelines execution, boosting data delivery and model retraining by 3x.
+•	Presented performance reports to leadership and proposed strategic solutions to accelerate model development cycles.
+Business Data Analyst, UKG, India							          	           Jan 2021 – Aug 2022
+•	Built scalable data model with Snowflake schema and partnered with engineers to implement robust CRM ETL pipelines.
+•	Integrated Snowflake ETL pipelines with Tableau, cutting data processing time and reporting latency from 8 to 3 hours.
+•	Admin Tableau Cloud for 3,500+ users with row and column security and governance ensuring GDPR/CCPA compliance.
+•	Delivered product performance dashboards with calculated fields to track KPI trends, identify drop off points, and churn.
+•	Established Tableau Center of Excellence, hosted weekly office hours and training 200+ users on development standards.
+•	Monitored Executive business dashboards, automated data quality checks to identify anomalies and mitigate data drifts.
+•	Prepared user guides and training materials that drove a 3X increase in Tableau adoption among external stakeholders.
+•	Influenced product roadmaps with data driven insights, boosting feature enhancement projects by 27% within 3 months.
+•	Maintained change management documents to track legacy feature migration, ensuring team and leadership alignment.
+Business Analyst, UKG, India									            Oct 2020 – Jan 2021
+•	Facilitated Stakeholder meetings to define success metrics, aligned sprint deliverables to product rollouts for 13 sprints.
+•	Prepared PRD, FRD, Epics, User Stories and Acceptance Criteria, aligned development and QA teams with business goals.
+•	Partnered with cross functional teams in daily scrums, resolved sprint blockers, user issues and tracked sprint progress.
+•	Led SQL analysis on DAU/MAU records, identified key drop-off points that informed feature prioritization/enhancements.
+•	Leveraged Tableau Prep workflows to cleanse, blend, aggregate multi-channel campaign data, boosted accuracy by 40%.
+•	Built interactive dashboard with campaign ROI, conversion, engagement metrics, presented tailored insights to leaders.
+•	Designed 4 Jira defect management dashboards, resolved 500+ bugs, and ensured timely QA testing and build releases.
+•	Led UAT sessions with end-users, gathered client feedback, and ensured timely build release with post-production testing.
+•	Represented customer perspectives in sprint planning and ensured development prioritization aligned with client needs.
+EDUCATION
+•	MS in Business Analytics and Information Systems, University of South Florida, Tampa		           Aug 2022 – May 2024
+•	BS in Computer Science and Engineering, Gandhi Institute of Technology and Management, India       Aug 2016 – July 2020
+ACHIEVEMENTS
+•	Certifications: ML Statistical Foundation (Wolfram Research), Data Engineering Foundations (Astronomer), Snowflake Data Warehousing (Snowflake Learning), DBT Fundamental (dbt labs), Alteryx Workflows (Alteryx), Gen AI (Databricks).
+•	Leadership: Graduate Assistant (USF-2024), Data Science Club (USF-2023), PMI Volunteer (Tampa-2022).
+•	Recognition: Exceptional Performer Award (UKG -2022), Customer Excellence Awards (UKG -2021).
